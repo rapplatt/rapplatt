@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rebecca (she/her)</h1>
-<h3 align="center">I'm a developer (on Github? Shocking I know)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rapplatt&label=Profile%20views&color=0e75b6&style=flat" alt="rapplatt" /> </p>
 
 <p align="left"> <a href="https://twitter.com/itstechbec" target="blank"><img src="https://img.shields.io/twitter/follow/itstechbec?logo=twitter&style=for-the-badge" alt="itstechbec" /></a> </p>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Authentication and Authorization Flows**
 
 - 👨‍💻 My talks are available at [https://noti.st/rapplatt](https://noti.st/rapplatt)
 
-- 💬 Ask me about **document accessibility. I have a lot of thoughts about printers.**
+- 💬 Ask me about **GraphQL and document accessibility. I have a lot of thoughts about printers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
